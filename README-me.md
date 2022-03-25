@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 [desktop](./full.png)
-[movile](./movil.png)
+[mobile](./movil.png)
 
 ## My process
 
@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Continued development
 
-I must continue working on making things more responsive. This works on many devices but the CSS is a bit off for some screen sizes. Even though I added media queries for different sizes, at the end I focused mainly on the widths that the designed was made for (movile around 375px and 1440px for desktop).
+I must continue working on making things more responsive. This works on many devices but the CSS is a bit off for some screen sizes. Even though I added media queries for different sizes, at the end I focused mainly on the widths that the designed was made for (mobile around 375px and 1440px for desktop).
 
 ## Author
 
@@ -48,6 +48,6 @@ I must continue working on making things more responsive. This works on many dev
 
 ## Acknowledgments
 
-I'd like to thank Leon Noel for his bootcamp 100Devs, thanks to that bootcamp I feel that I'm getting better, this is real now. [Last but not least I wanna thank me](https://www.youtube.com/watch?v=7ehy1-6IuCg&ab_channel=SnoopDoggTV)
+I'd like to thank Leon Noel for his bootcamp 100Devs, this is real now. [Last but not least I wanna thank me](https://www.youtube.com/watch?v=7ehy1-6IuCg&ab_channel=SnoopDoggTV)
 I have to keep working on my media queries and css obvs.
 
